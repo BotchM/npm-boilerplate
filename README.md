@@ -1,6 +1,6 @@
 # npm project boilerplate
 A template for npm projects intended to kick-start productivity.
-
+[![Coverage Status](https://coveralls.io/repos/github/MyEtherWallet/npm-boilerplate/badge.svg)](https://coveralls.io/github/MyEtherWallet/npm-boilerplate)[![Build Status](https://travis-ci.org/MyEtherWallet/npm-boilerplate.svg?branch=master)](https://travis-ci.org/MyEtherWallet/npm-boilerplate)
 ## Scaffolding
 Javascript Project Boilerplate provides a smart folder structure and some preconfigured files:
 

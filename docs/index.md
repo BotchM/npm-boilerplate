@@ -11,9 +11,8 @@ Computes the sum of two values
 
 **Parameters**
 
--   `number`  first value
+-   `valA` **[number](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number)** first value
 -   `valB` **[number](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number)?** second value (optional, default `0`)
--   `valA`  
 
 **Examples**
 
@@ -30,9 +29,8 @@ Computes the multiplication of two values
 
 **Parameters**
 
--   `number`  first value
+-   `valA` **[number](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number)** first value
 -   `valB` **[number](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number)?** second value (optional, default `1`)
--   `valA`  
 
 **Examples**
 

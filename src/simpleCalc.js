@@ -2,7 +2,7 @@
 
 /**
  * Computes the sum of two values
- * @param {number} [valA first value
+ * @param {number} valA first value
  * @param {number} [valB=0] second value
  * @returns {number} sum of the two input values
  * @example
@@ -15,7 +15,7 @@ var add = function (valA, valB = 0) {
 
 /**
  * Computes the multiplication of two values
- * @param {number} [valA first value
+ * @param {number} valA first value
  * @param {number} [valB=1] second value
  * @returns {number} multiplication of the two input values
  * @example
